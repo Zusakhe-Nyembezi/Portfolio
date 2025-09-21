@@ -683,6 +683,11 @@ footer {
     color: var(--primary-color);
 }
 
+.industry-tag a{
+    text-decoration: none; 
+    color: var(--primary-color);
+}
+
 .project-content {
     padding: 1.5rem;
 }
